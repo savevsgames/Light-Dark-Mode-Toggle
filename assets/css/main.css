@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "sergeo UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav {
+  width: 100vw;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: white;
+}
+
+h2 {
+  font=size: 3rem;
+}
+
+.links {
+  padding: 20px;
+}
+
+.links a {
+  padding: 20px;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+}
+
+.links a:hover {
+  color: #999;
+}
+
+.container {
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  display: grid;
+  height: 30vh;
+  width: 90vw;
+}
+
+.btn {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  outline: none;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 20px auto;
+}
