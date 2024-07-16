@@ -20,6 +20,8 @@ This project demonstrates a simple implementation of a light and dark mode toggl
 2. Open the `index.html` file in your web browser.
 3. Click the toggle button to switch between light and dark modes.
 
+- View my version of the project at: [https://savevsgames.github.io/Light-Dark-Mode-Toggle/](https://savevsgames.github.io/Light-Dark-Mode-Toggle/)
+
 ## Credits
 
 This project was created by following Tyler's tutorial on YouTube:
@@ -28,4 +30,5 @@ This project was created by following Tyler's tutorial on YouTube:
 ## License
 
 This project is open source and available under the MIT License.
+
 # Light-Dark-Mode-Toggle
